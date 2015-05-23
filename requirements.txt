@@ -1,0 +1,35 @@
+# Flask
+# Description: A microframework based on Werkzeug, Jinja2 and good intentions
+# License: BSD
+# Upstream url: http://github.com/mitsuhiko/flask/
+Flask==0.10.1
+
+# Flask-RESTful
+# Description: Simple framework for creating REST APIs
+# License: BSD
+# Upstream url: https://www.github.com/flask-restful/flask-restful/
+Flask-RESTful==0.3.3
+
+# requests
+# Description: Python HTTP for Humans
+# License: Apache 2.0
+# Upstream url: http://python-requests.org
+requests==2.7.0
+
+# Nose
+# Description: Nose extends unittest to make testing easier
+# License: GNU LGPL
+# Upstream url: http://readthedocs.org/docs/nose/
+nose==1.3.4
+
+# Flake8
+# Description: The modular source code checker: pep8, pyflakes and co
+# License: MIT
+# Upstream url: https://gitlab.com/pycqa/flake8
+flake8==2.4.1
+
+# Mock
+# Description: A Python Mocking and Patching Library for Testing
+# License: BSD License
+# Upstream url: http://www.voidspace.org.uk/python/mock/
+mock==1.0.1
